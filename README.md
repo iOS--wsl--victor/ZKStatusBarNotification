@@ -9,8 +9,8 @@
 
 可以在 iOS App 状态栏很容易的显示消息通知。
 
-![info](https://raw.githubusercontent.com/WangWenzhuang/ZKStatusBarNotification/master/image/info.jpeg)
 ![error](https://raw.githubusercontent.com/WangWenzhuang/ZKStatusBarNotification/master/image/error.jpeg)
+![info](https://raw.githubusercontent.com/WangWenzhuang/ZKStatusBarNotification/master/image/info.jpeg)
 ![info](https://raw.githubusercontent.com/WangWenzhuang/ZKStatusBarNotification/master/image/success.jpeg)
 
 ## 实现功能

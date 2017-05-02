@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'ZKStatusBarNotification'
-  s.version = '1.0'
+  s.version = '1.1'
   s.ios.deployment_target = '8.0'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.summary = '可以在 iOS App 状态栏很容易的显示消息通知'
