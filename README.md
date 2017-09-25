@@ -3,9 +3,9 @@
 # ZKStatusBarNotification
 
 ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+![build](https://travis-ci.org/WangWenzhuang/ZKStatusBarNotification.svg?branch=master)
 ![CocoaPods](https://img.shields.io/badge/pod-v1.2-brightgreen.svg)
 ![platform](https://img.shields.io/badge/platform-iOS-brightgreen.svg)
-![contact](https://img.shields.io/badge/contact-1020304029%40qq.com-brightgreen.svg)
 
 可以在 iOS App 状态栏很容易的显示消息通知。
 
