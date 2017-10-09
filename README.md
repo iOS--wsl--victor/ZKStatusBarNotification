@@ -38,6 +38,12 @@ target 'MyApp' do
     pod 'ZKStatusBarNotification'
 end
 ```
+如果使用 Swift 3.2 请使用*1.1*版本
+
+```ogdl
+pod 'ZKStatusBarNotification', '~> 1.1'
+```
+
 ### 手动安装
 
 * 拖动 `ZKStatusBarNotification` 文件夹到您的项目
