@@ -41,7 +41,7 @@ end
 如果使用 Swift 3.2 请使用*1.1*版本
 
 ```ogdl
-pod 'ZKStatusBarNotification', '~> 1.1'
+pod 'ZKStatusBarNotification', '1.1'
 ```
 
 ### 手动安装
